@@ -17,7 +17,8 @@
         "GitHub.copilot",
         "ms-python.python",
         "ms-python.debugpy",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "github.vscode-mcp"
       ],
       "settings": {
         "chat.agent.enabled": true,
